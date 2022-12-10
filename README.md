@@ -29,7 +29,7 @@
 <a href="2022\Day 9\Day 9.py">
   <img src="Media\2022\09.png" width="161px">
 </a>
-<a href="None">
+<a href="2022\Day 10\Day 10.py">
   <img src="Media\2022\10.png" width="161px">
 </a>
 <h1 align="center">
@@ -62,7 +62,10 @@
 <a href="2021\Day 9\Puzzle 1.py">
   <img src="Media\2021\09.png" width="161px">
 </a>
-<a href="None">
+<a href="2021\Day 10\Puzzle 1.py">
   <img src="Media\2021\10.png" width="161px">
+</a>
+<a href="2021\Day 11\Puzzle 1.py">
+  <img src="Media\2021\11.png" width="161px">
 </a>
 <!-- AOC TILES END -->
