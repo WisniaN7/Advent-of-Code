@@ -1,6 +1,6 @@
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2022 - 33 ⭐
+  2022 - 35 ⭐
 </h1>
 <a href="2022\Day 1\Day 1.py">
   <img src="Media\2022\01.png" width="161px">
@@ -53,7 +53,7 @@
 <a href="2022\Day 17\Day 17.py">
   <img src="Media\2022\17.png" width="161px">
 </a>
-<a href="2022\Day 18\Day 17.py">
+<a href="2022\Day 18\Day 18.py">
   <img src="Media\2022\18.png" width="161px">
 </a>
 <h1 align="center">
